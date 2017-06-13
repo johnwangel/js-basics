@@ -1,3 +1,4 @@
+"use strict";
 /* Create a `myName` variable and assign it a String value */
 
 var myName = "John";
@@ -34,7 +35,7 @@ var myName = "John";
  * (there are 6 different data types);
  */
 
- var dataTypes = [1, "two", false, [], {}, function(){}, undefined, null]
+ var dataTypes = [1, "two", false, [], {}, function(){}, undefined, null];
 
 /* Create a `dog` object
  * it should have a `bark` function that makes your dog bark!
